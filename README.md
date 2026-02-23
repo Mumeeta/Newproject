@@ -31,3 +31,7 @@ I want to expand the library of sounds the AI can recognize. I'd like to add det
 * Interface built with **Streamlit**.
 * Inspired by the **Building AI** course modules on data and signal patterns.
 * Sound samples (dog/car) used for testing purposes.
+
+* ![QuietHour Analysis Screen](Screenshot 2026-02-23 at 21.01.49.png)
+*  ![QuietHour Analysis Screen](Screenshot 2026-02-23 at 21.35.48.png)
+*  ![QuietHour Analysis Screen](Screenshot 2026-02-23 at 21.36.16.png)
